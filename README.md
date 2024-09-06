@@ -61,7 +61,7 @@ To run the array simulations and visualizations, you will need:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/Materials-Science-Intro.git
+   git clone https://github.com/smahala02/Materials-Science-Introduction.git
    ```
 
 2. Install the required Python packages:
